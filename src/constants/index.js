@@ -212,46 +212,9 @@ import {
       project_link: "https://nesrine-ai-compass-kqwn.vercel.app/",
     },
     {
-      name: "Modern Bank Website",
+      name: "portfolio + My other projects",
       description:
-        "Discover a new era in payment solutions.",
-      tags: [
-        {
-          name: "Vite",
-          color: "blue-text-gradient",
-        },
-  
-      ],
-      image: Bank,
-      source_code_link: "https://github.com/Nesrinetech/Modern-Bank/",
-      project_link: "https://modern-bank-six.vercel.app/",
-    },
-    {
-      name: "E-commerce",
-      description:
-        "Unrivalled Fashion House",
-      tags: [
-        {
-          name: "JavaScript",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "CSS",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "HTML",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: commerce,
-      source_code_link: "https://github.com/Nesrinetech/ecommerce-test/",
-      project_link: "https://nesrinetech.github.io/ecommerce-test/",
-    },
-    {
-      name: "portfolio",
-      description:
-        "Personal Pertfolio",
+        "Personal Pertfolio + My other projects",
       tags: [
         {
           name: "HTML",
@@ -268,7 +231,7 @@ import {
       ],
       image: portfolio,
       source_code_link: "https://github.com/",
-      project_link: "https://nesrine-portfolio.netlify.app/",
+      project_link: "https://nesrine-portfolio.vercel.app/",
     },
   ];
   
