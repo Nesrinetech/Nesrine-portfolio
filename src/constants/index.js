@@ -79,10 +79,7 @@ import {
       name: "React JS",
       icon: reactjs,
     },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
+    
     {
       name: "Tailwind CSS",
       icon: tailwind,
@@ -95,22 +92,13 @@ import {
       name: "MongoDB",
       icon: mongodb,
     },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
-      name: "git",
-      icon: git,
-    },
+ 
+  
     {
       name: "figma",
       icon: figma,
     },
-    {
-      name: "docker",
-      icon: docker,
-    },
+ 
   ];
   
   const experiences = [
@@ -185,7 +173,7 @@ import {
     {
       name: "AI article summraizer",
       description:
-        "An open-source tool for summarizing articles and webpages. Summize is designed to make your reading simpler by turning long texts into short, easy-to-read summaries. ",
+        "An open-source tool for summarizing articles.",
       tags: [
         {
           name: "react",
@@ -207,7 +195,7 @@ import {
     {
       name: "Nesrine's AI Compass",
       description:
-        "your gateway to the cutting-edge world of artificial intelligence.",
+        "world of artificial intelligence.",
       tags: [
         {
           name: "react",
@@ -244,7 +232,7 @@ import {
     {
       name: "Modern Bank Website",
       description:
-        "Discover a new era in payment solutions with our dedicated team of experts. We employ a cutting-edge methodology to pinpoint the credit cards perfectly tailored to meet your unique requirements.",
+        "Discover a new era in payment solutions.",
       tags: [
         {
           name: "Vite",
@@ -262,15 +250,15 @@ import {
         "Unrivalled Fashion House",
       tags: [
         {
-          name: "HTML",
-          color: "blue-text-gradient",
+          name: "JavaScript",
+          color: "pink-text-gradient",
         },
         {
           name: "CSS",
-          color: "green-text-gradient",
+          color: "pink-text-gradient",
         },
         {
-          name: "JavaScript",
+          name: "HTML",
           color: "pink-text-gradient",
         },
       ],
