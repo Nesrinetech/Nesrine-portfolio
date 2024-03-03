@@ -233,6 +233,28 @@ import {
       source_code_link: "https://github.com/",
       project_link: "https://nesrine-portfolio.vercel.app/",
     },
+    {
+      name: "E-commerce",
+      description:
+        "Unrivalled Fashion House",
+      tags: [
+        {
+          name: "JavaScript",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "CSS",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "HTML",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: commerce,
+      source_code_link: "https://github.com/Nesrinetech/ecommerce-test/",
+      project_link: "https://nesrinetech.github.io/ecommerce-test/",
+    },
   ];
   
   export { services, technologies, experiences, testimonials, projects };
