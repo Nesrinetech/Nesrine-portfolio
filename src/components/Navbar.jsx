@@ -42,7 +42,10 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-
+          <p className='text-white text-[18px] font-bold cursor-pointer flex flex-shrink-0'>
+            Nesrine &nbsp;
+            <span className='sm:block hidden'></span>
+          </p>
         </Link>
 
         <ul className='list-none hidden sm:flex flex-row gap-10'>
