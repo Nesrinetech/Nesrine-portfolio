@@ -171,7 +171,7 @@ import {
   
   const projects = [
     {
-      name: "AI article summraizer",
+      name: "AI summraizer",
       description:
         "An open-source tool for summarizing articles.",
       tags: [
@@ -180,7 +180,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "Javascript",
+          name: "vite",
           color: "green-text-gradient",
         },
         {
@@ -189,8 +189,8 @@ import {
         },
       ],
       image: sum,
-      source_code_link: "https://github.com/Nesrinetech/Nesrines-AI-summraizer-app/",
-      project_link: "https://sensational-pavlova-397fed.netlify.app/",
+      source_code_link: "https://github.com/Nesrinetech/AI-summarizer/",
+      project_link: "https://ai-summarizer-rho-six.vercel.app/",
     },
     {
       name: "Nesrine's AI Compass",
@@ -254,7 +254,7 @@ import {
       image: commerce,
       source_code_link: "https://github.com/Nesrinetech/ecommerce-test/",
       project_link: "https://nesrinetech.github.io/ecommerce-test/",
-    },
+    }, 
   ];
   
   export { services, technologies, experiences, testimonials, projects };
