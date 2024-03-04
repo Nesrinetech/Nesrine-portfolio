@@ -231,7 +231,7 @@ import {
       ],
       image: portfolio,
       source_code_link: "https://github.com/",
-      project_link: "https://portfolio-g1.vercel.app/",
+      project_link: "https://nesrine-portfolio-2.vercel.app/",
     },
     {
       name: "E-commerce",
